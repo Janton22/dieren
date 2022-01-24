@@ -2,3 +2,5 @@ goudvis papagaai
 hamster 
 kat hond 
 konijn 
+muis
+parkiet
